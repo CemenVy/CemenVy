@@ -31,15 +31,3 @@ UIKit, SwiftUI, OOP, POP, MVC, MVVM, Git, ARC, Grand Central Dispatch, API, JSON
 <img src="https://github-readme-stats.vercel.app/api?username=CemenVy&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
 <br/>  
-
-
-
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
