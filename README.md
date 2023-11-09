@@ -7,7 +7,7 @@ iOS Developer
 
 - **UIKit, SwiftUI**
 - **OOP, POP, MVC, MVVM**
-- **Git, ARC, Grand Central Dispatch**
+- **Git, ARC, GCD, Async/await**
 - **API, JSON, URLSession**
 - **Realm, CoreData**
 - **Auto Layout, Storyboard, XIB**
