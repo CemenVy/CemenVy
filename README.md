@@ -6,23 +6,9 @@ IOS-Developer
 <br/>  
 
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-<div align="center">  
-<a href="https://developer.apple.com/swift/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/swift-original-wordmark.svg" alt="Swift" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
+## My Skill Set 
 
 UIKit, SwiftUI, OOP, POP, MVC, MVVM, Git, ARC, Grand Central Dispatch, API, JSON, URLSession, Realm, CoreData, Auto Layout, Storyboard, XIB, CocoaPods, SPM  
-
-
-</td><td valign="top" width="33%">
-
-
-
-</td></tr></table>  
 
 <br/>  
 
@@ -44,14 +30,6 @@ UIKit, SwiftUI, OOP, POP, MVC, MVVM, Git, ARC, Grand Central Dispatch, API, JSON
 <br/>  
 
 
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
 
   
 
