@@ -6,7 +6,7 @@ iOS Developer
 ## My Skill Set 
 
 - **UIKit, SwiftUI**
-- **OOP, POP, MVC, MVVM**
+- **OOP, MVC, MVP, MVVM, VIPER, CleanSwift**
 - **Git, ARC, GCD, Async/await**
 - **API, JSON, URLSession**
 - **Realm, CoreData**
