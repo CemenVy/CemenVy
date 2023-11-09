@@ -1,17 +1,19 @@
 ### Semen Vydrin
 IOS-Developer
-  
-  
 
-<br/>  
-
+---
 
 ## My Skill Set 
 
-UIKit, SwiftUI, OOP, POP, MVC, MVVM, Git, ARC, Grand Central Dispatch, API, JSON, URLSession, Realm, CoreData, Auto Layout, Storyboard, XIB, CocoaPods, SPM  
+- UIKit, SwiftUI
+- OOP, POP, MVC, MVVM
+- Git, ARC, Grand Central Dispatch
+- API, JSON, URLSession
+- Realm, CoreData
+- Auto Layout, Storyboard, XIB
+- CocoaPods, SPM
 
-<br/>  
-
+---
 
 ## Connect with me  
 <a href="https://t.me/CemenVy" target="_blank">
@@ -22,12 +24,13 @@ UIKit, SwiftUI, OOP, POP, MVC, MVVM, Git, ARC, Grand Central Dispatch, API, JSON
   <img src=https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
 </a>
 
-<br/>  
+---
 
+<details>
+  <summary>GitHub Stats</summary>
 
-## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CemenVy&hide_border=true&layout=compact" align="left" />  
+  <!-- Твои статы здесь -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CemenVy&hide_border=true&layout=compact" align="left" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=CemenVy&show_icons=true&count_private=true&hide_border=true" align="left" />  
-
-<br/>  
+  <img src="https://github-readme-stats.vercel.app/api?username=CemenVy&show_icons=true&count_private=true&hide_border=true" align="left" />
+</details>
